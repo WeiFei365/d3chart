@@ -1,1 +1,4 @@
-.Ds_Store
+node_modules/
+dest/
+.DS_Store
+npm-debug.log
